@@ -5,10 +5,6 @@ Clone the repository
 ```
 git clone https://github.com/Kevin75311/UCLA_MAE162E_week2_materials.git
 ```
-Install the environment from the yml file
-```
-conda env create -f week2.yml
-```
 
 ## usage 
 * OpenCV examples
@@ -27,7 +23,7 @@ cd ./YOLOv4
 ```
 Install gdown
 ```
-conda install gdown
+sudo apt install gdown
 ```
 Enter the weights directory
 ```
